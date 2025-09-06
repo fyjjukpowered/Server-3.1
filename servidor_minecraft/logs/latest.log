@@ -556,3 +556,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 [06Sep2025 23:20:00.375] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ribbits:messages,torchmaster:main,supermartijn642configlib:sync_configs,vanillaplustools:net-channel,carryon:carryonpackets,mowziesmobs:net,charmofundying:main,cosmeticarmorreworked:main,cfm:network,sophisticatedbackpacks:channel,creativecore:main,sexcraft:sexcraft,sophisticatedcore:channel,framework:play,caelus:main,trade_cycling:cycle_trades,curios:main,minecraft:treechop-channel,geckolib:main,crittersandcompanions:main,waystones:network,framework:handshake] rejected their client side version number
 [06Sep2025 23:20:00.376] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [06Sep2025 23:20:00.382] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@197d61bd[id=<null>,name=ChristianJVR,properties={},legacy=false] (/127.46.171.172:56327) lost connection: Connection closed - mismatched mod channel list
+[06Sep2025 23:42:22.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Sep2025 23:42:22.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Sep2025 23:42:22.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Sep2025 23:42:22.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Sep2025 23:42:23.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Sep2025 23:42:25.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/sexcraft:the_molten_hollow
+[06Sep2025 23:42:25.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Sep2025 23:42:25.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Sep2025 23:42:25.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Sep2025 23:42:25.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_molten_hollow): All chunks are saved
+[06Sep2025 23:42:25.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Sep2025 23:42:25.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Sep2025 23:42:25.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Sep2025 23:42:25.530] [Server thread/INFO] [Framework/]: Unloading server configs...
+[06Sep2025 23:42:25.531] [Server thread/INFO] [Framework/]: Finished unloading server configs
